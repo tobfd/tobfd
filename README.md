@@ -4,6 +4,7 @@
 Kommt gerne auf meinen Discord Server, mit einem Klick auf Discord.
 - Ich programmiere mit Python, Pycord und Ezcord.
 - Ich entwickle Discord Bots.
+- [Mein Bot](https://discord.com/api/oauth2/authorize?client_id=1128673160154320987&permissions=8&scope=bot%20applications.commands)
 ## Meine Stats
 ![GitHub followers](https://img.shields.io/github/followers/tobfd?label=Abos&style=for-the-badge&logo=GitHub)
 ![GitHub language count](https://img.shields.io/github/languages/count/tobfd/tobfd_bot?style=for-the-badge&logo=python&logoColor=orange&label=Sprachen&link=https%3A%2F%2Fdiscord.gg%2Frfgb4s3csV)  
@@ -18,5 +19,7 @@ Kommt gerne auf meinen Discord Server, mit einem Klick auf Discord.
 - Embeds erstellen
 - Nachrichten vom Bot aus senden
 - Radio im Sprachkanal
+- Member kicken
+- Member grüßen
 
 
