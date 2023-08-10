@@ -1,6 +1,7 @@
 # Hi, ich bin tobfd!
 [![Discord](https://img.shields.io/discord/1082315916722835526?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&color=blue)](https://discord.gg/rfgb4s3csV)
 [![](https://img.shields.io/badge/tobfd_bot-00A966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobfd/tobfd_bot)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=tobfd;Discord+Bot+Entwickler;Python+Entwickler)](https://git.io/typing-svg)  
 Kommt gerne auf meinen Discord Server, mit einem Klick auf Discord.
 - Ich programmiere mit Python, Pycord und Ezcord.
 - Ich entwickle Discord Bots.
