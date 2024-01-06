@@ -7,17 +7,16 @@ Kommt gerne auf meinen Discord Server, mit einem Klick auf Discord.
 - [Mein Bot](https://discord.com/api/oauth2/authorize?client_id=1128673160154320987&permissions=8&scope=bot%20applications.commands)
 - [Mein Discord Server](https://discord.gg/pZnKFEkm6D)
 ## Meine Stats
-![GitHub followers](https://img.shields.io/github/followers/tobfd?label=Followers&style=for-the-badge&logo=GitHub)  
+![GitHub Followers](https://img.shields.io/github/followers/tobfd?label=Followers&style=for-the-badge&logo=GitHub)  
 ![tobfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobfd&show_icons=true&theme=dracula)
 ## Mein Discord Bot
 [Bot Einladungslink](https://discord.com/api/oauth2/authorize?client_id=1128673160154320987&permissions=8&scope=bot%20applications.commands)
 ### Funktionen
 - Memes
-- user info
-- server info
+- Userinfo
+- Serverinfo
 - Embeds erstellen
 - Radio im Sprachkanal
-- Member kicken
 - Member grüßen
 - econemy System
 - KI Stimmen Genarator
@@ -27,8 +26,8 @@ Kommt gerne auf meinen Discord Server, mit einem Klick auf Discord.
 - Level System
 - Memes
 - Minecraft API
-- Serverinfo
 - Steam API
 - Wetter API
+- Und vieles mehr!
 
 
