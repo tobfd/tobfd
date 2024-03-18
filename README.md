@@ -6,7 +6,7 @@ Kommt gerne auf meinen Discord Server, mit einem Klick auf Discord.
 - Ich programmiere mit Python, Pycord und Ezcord.
 - Ich entwickle Discord Bots.
 - [Mein Bot](https://discord.com/api/oauth2/authorize?client_id=1128673160154320987&permissions=8&scope=bot%20applications.commands)
-- [Mein Discord Server](https://discord.gg/pZnKFEkm6D)
+- [Mein Discord Server](https://discord.gg/CzhgQpKEmD)
 ## Meine Stats
 ![GitHub Followers](https://img.shields.io/github/followers/tobfd?label=Followers&style=for-the-badge&logo=GitHub)  
 ![tobfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobfd&show_icons=true&theme=dracula)  
