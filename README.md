@@ -1,12 +1,8 @@
 # 👋🏻 Hi, i am tobfd!  
-[![Discord](https://img.shields.io/discord/1217082356175863908?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&color=blue)](https://discord.gg/qaBGctrmnv)
-[![](https://img.shields.io/badge/Tobfd%20Bot-D0567A?style=for-the-badge&logo=discord&logoColor=white&color=blue)](https://discord.com/oauth2/authorize?client_id=1128673160154320987)  
-  
 ![](https://discord.c99.nl/widget/theme-4/887307645529231431.png)  
   
 Hi, I'm a backend developer from Germany. In my spare time, I enjoy working on various projects, such as Discord bots.
 ## My Tools
-[![My Skills](https://skillicons.dev/icons?i=python,sqlite,discord,git,github,pycharm,vscode,webstorm,windows,html,css,fastapi,figma,ubuntu,gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sqlite,postgres,discord,git,github,docker,pycharm,vscode,webstorm,windows,fastapi,ubuntu,gmail,cloudflare)](https://skillicons.dev)
 ## My Stats
-![tobfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobfd&show_icons=true&theme=dracula)  
-
+![tobfd's GitHub stats](https://githubstats.tobfd.de/api?username=tobfd&theme=dracula&count_private=true&show_icons=true&hide=contribs)
